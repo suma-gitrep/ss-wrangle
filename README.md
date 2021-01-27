@@ -14,6 +14,10 @@
 
 Who speaks more times when compared?
 
+## Answer
+
+KATHARINA speaks 124 times where as GREMIO speaks 91 times. so KATHARINA speaks more times compared to GREMIO.
+
 ## Commands
 
 - Command used to find how many times Speaker 1 speaks(KATHARINA):
@@ -36,9 +40,12 @@ echo $(($(grep -o -i GREMIO data.txt | wc -l) >
 $(grep -o -i KATHARINA data.txt | wc -l) ? $(grep -o -i GREMIO data.txt | wc -l)
 : $(grep -o -i KATHARINA data.txt | wc -l))) > result.txt
 ```
-## input file
+## Files
 
-[data.txt]()
+[data.txt](https://github.com/suma-gitrep/ss-wrangle/blob/main/data.txt)
+[result.txt](https://github.com/suma-gitrep/ss-wrangle/blob/main/result.txt)
+
+
 
 
 
