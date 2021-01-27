@@ -1,6 +1,6 @@
-# ss-wrangle
-## Bonus challenge
+# ss-wrangle(Bonus challenge)
 
+## SUMA SOMA - Section01
 
 ## My Play
 [The Taming of the Shrew](http://shakespeare.mit.edu/taming_shrew/full.html)
