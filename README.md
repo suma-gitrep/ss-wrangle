@@ -42,7 +42,7 @@ $(grep -o -i KATHARINA data.txt | wc -l) ? $(grep -o -i GREMIO data.txt | wc -l)
 ```
 ## Files
 
-[data.txt](https://github.com/suma-gitrep/ss-wrangle/blob/main/data.txt)
+[data.txt](https://github.com/suma-gitrep/ss-wrangle/blob/main/data.txt) <br>
 [result.txt](https://github.com/suma-gitrep/ss-wrangle/blob/main/result.txt)
 
 
